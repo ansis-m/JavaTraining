@@ -10,6 +10,7 @@ public class Main {
         double a = 1234.567890;
         char v = 33;
         /* making some changes in intelliJ */
+        //some eddits from branch1
 
         System.out.println("boolean " + bool + "\nbyte " + z + "\nint " + x + "\nfloat " + b + "\ndouble " + a + "\nchar " + v);
 
