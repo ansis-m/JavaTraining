@@ -9,6 +9,7 @@ public class Main {
         float b = 1.234f;
         double a = 1234.567890;
         char v = 33;
+        /* making some changes in intelliJ */
 
         System.out.println("boolean " + bool + "\nbyte " + z + "\nint " + x + "\nfloat " + b + "\ndouble " + a + "\nchar " + v);
 
